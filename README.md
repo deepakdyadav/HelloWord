@@ -1,2 +1,2 @@
-# HelloWord Program in Python Programming Language 
-To Print DDSRY
+# HelloWord Program in Python
+To Print String "DDSRY"
